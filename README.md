@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning various programming languages, frameworks, and ways to utilize AI in a more general way to benefit productivity.
 - 💞️ I’m looking to collaborate on projects that utilize data to improve business processes
 - 📫 You can reach me via my linkedin @https://www.linkedin.com/in/alex-deane-93449a1b9/,
-- Email @alexdeane16@gmail.com
+- Email @adeane1041@gmail.com
 
 <!---
 AlexD4110/AlexD4110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
